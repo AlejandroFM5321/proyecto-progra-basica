@@ -1,3 +1,4 @@
+BUENAS
 seleccionMenu=int(input("Seleccione el numero de la accion que desea realizar \n 1. Ingresar nueva ventana \n 2. Actualizar inventario \n 3. Salir \n"))
 nombreCliente=""
 dia=0
